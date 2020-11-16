@@ -6,3 +6,6 @@ binary search
 interpolation search
 red-black tree (with search and insert classes Tree and TreeNode respectively)
 digital tree(trie) (with search and insert class TrieNode)
+
+
+A report is included with performance graphs in greek.
